@@ -122,7 +122,7 @@
 /* Main Section */
 
 .mainsec{
-    background-image: url("/images/hero.jpg");
+    background-image: url("images/hero.jpg");
     background-size: cover;
     height: 400px;
     width: 100%;
