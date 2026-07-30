@@ -29,7 +29,3 @@ git clone https://github.com/MayankParkar/AmazonClone.git
 cd AmazonClone
 open index.html   # or double-click the file
 ```
-
-## Tags
-
-`#html` `#css` `#frontend` `#clone-project` `#responsive-design` `#font-awesome` `#amazon-clone` `#ui-practice`
