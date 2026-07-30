@@ -25,7 +25,7 @@ This project recreates the Amazon homepage — navbar with search bar and catego
 Clone the repo and open `index.html` directly in your browser — no build step or dependencies required.
 
 ```bash
-git clone https://github.com/<your-username>/AmazonClone.git
+git clone https://github.com/MayankParkar/AmazonClone.git
 cd AmazonClone
 open index.html   # or double-click the file
 ```
